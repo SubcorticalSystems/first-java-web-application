@@ -1,4 +1,4 @@
-package edu.dccc.topelectriccars.topelectriccars;
+package edu.dccc.topelectriccars;
 
 import java.io.*;
 
